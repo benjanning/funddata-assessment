@@ -21,9 +21,13 @@ In this project I will be exploring the Normal Distribution.
 The exploration will include:
 
 Creating a notebook about the normal distribution.
+
 1 - Define and explain the main concepts.
+
 2 - Discussing its uses in the real world.
+
 3 - Making visuals like plots to explain the concepts.
+
 4 - A brief overview of other types of distributions.
 
 
@@ -43,7 +47,7 @@ Creating a notebook about the normal distribution.
 12) Other Forms of Statistical Distribution
 13) Conclusion
 
-<h1><center>2. Practicals:</center></h1>
+## <h1><center>2. Practicals:</center></h1>
 
 ## <h1><center>Table of Contents:</center></h1>
 
