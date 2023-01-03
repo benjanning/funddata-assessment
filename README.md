@@ -5,7 +5,9 @@
 This repository contains the work required for the Fundamentals of Data Analysis Module, as part of the Higher Diploma in Science in Computing in Data Analytics - Atlantic Technology University.  
 
 The work is divided into two main folders:
+
 1- Normal Distribution: This folder contains the a research project, which investigates and explores the Normal Distribution.
+
 2 - Practicals: This folder contains the weekly tasks assigned to students throughout the course of the module.
 
 ## <h1><center>Running the Files:</center></h1>
@@ -42,7 +44,6 @@ Creating a notebook about the normal distribution.
 13) Conclusion
 
 <h1><center>2. Practicals:</center></h1>
-
 
 ## <h1><center>Table of Contents:</center></h1>
 
