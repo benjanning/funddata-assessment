@@ -1,3 +1,31 @@
+# Fundamentals of Data Analysis — Probability & Data Quality
+
+**Python · Jupyter · Probability · Statistical Distributions**
+
+Academic explorations of how data behaves, how uncertainty is described and why data quality matters.
+
+## Featured investigation: the normal distribution
+
+**[Normal Distribution project](./Normal%20Distribution)**
+
+A notebook-based introduction to the normal distribution, covering its shape and properties, averages, the empirical rule, z-scores, the central limit theorem and related examples.
+
+## Other practicals
+
+**[Coursework practicals](./practicals)** cover topics including:
+- Information, entropy and randomness.
+- Sampling and statistical bias.
+- Outliers, cleaning and preparing datasets.
+
+## How to review
+
+Read the notebooks directly on GitHub, or clone the repository and open them in a Python Jupyter environment. See the individual notebooks for imports and expected inputs.
+
+This work is an educational investigation, not a reusable statistical software package.
+
+<details>
+<summary>Original coursework description and outline</summary>
+
 # <h1><center>Fundamentals of Data Analysis Module</center></h1>
 
 ## <h1><center>About this Repository:</center></h1>
@@ -65,3 +93,8 @@ Creating a notebook about the normal distribution.
 
 For any questions in relation to this study please contact:
 Ben Janning - g00411362@atu.ie
+
+</details>
+
+---
+[View my public portfolio](https://github.com/benjanning/programming2022).
